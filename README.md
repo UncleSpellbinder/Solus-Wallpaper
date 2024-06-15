@@ -1,4 +1,4 @@
-# **A simple repository for my EndeavourOS wallpaper**
+# **A simple repository for my Solus wallpaper**
 
 **Download and use as you see fit.**
 
